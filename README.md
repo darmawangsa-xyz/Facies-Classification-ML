@@ -7,5 +7,12 @@ Keywords: accuracy, classification, feature, filter, machine learning, KNN, Rand
 
 flow chart to get know more about this project:
 1. Data
-   It provides raw data of the project which get from SEG Open Source Data
+It provides raw data of the project which get from SEG Open Source Data
 2. Well Log Display
+It started from analyze raw data into well log display to get information of wells. It will give information to do QC using filtering method
+3. Facies Distribution
+It will give information about subsurface condition along wells
+4. Filtering
+Filtering data is most important flow in this project, it accelerate machine learning result
+5. Maachine Learning Scenario
+There are 3 types of supervised machine learning in this project. K-NN, Random Forest, and SVM is compared by 5 scenarios which related to input variable.
