@@ -5,7 +5,7 @@ The use of machine learning in geoscience data is based on growing of volume and
 
 Keywords: accuracy, classification, feature, filter, machine learning, KNN, Random Forest, SVM
 
-flow chart to get know more about this project:
+Flow chart to get know more about this project:
 1. Data. Provides raw data of the project which get from SEG Open Source Data
 2. Well Log Display. Started from analyze raw data into well log display to get information of wells. It will give information to do QC using filtering method
 3. Facies Distribution. It will give information about subsurface condition along wells
