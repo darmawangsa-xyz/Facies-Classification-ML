@@ -11,3 +11,7 @@ flow chart to get know more about this project:
 3. Facies Distribution. It will give information about subsurface condition along wells
 4. Filtering. Filtering data is most important flow in this project, it accelerate machine learning result
 5. Maachine Learning Scenario. There are 3 types of supervised machine learning in this project. K-NN, Random Forest, and SVM is compared by 5 scenarios which related to input variable.
+
+![flowchart](https://user-images.githubusercontent.com/55573876/117408437-23e36080-af3a-11eb-8332-44d85168404b.PNG)
+
+To read more about this project, please visit my journal at: https://library.universitaspertamina.ac.id//xmlui/handle/123456789/3262
